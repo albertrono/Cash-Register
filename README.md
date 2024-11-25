@@ -43,4 +43,4 @@ The cash register is initialized with the following denominations and counts:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/shukran-supermarkets.git
+   git clone https://github.com/albertrono/Cash-Register.git
